@@ -1,0 +1,30 @@
+
+nome: são paulo
+
+nome: rio de janeiro
+
+nome: belo horizonte
+
+nome: salvador
+
+nome: brasilia 
+
+nome: fortaleza 
+
+nome: curitiba
+
+nome: recife
+
+nome: porto alegre
+
+nome: manaus
+
+nome: belém
+
+nome: goiania
+
+nome: campinas
+
+nome: natal
+
+nome: sanandres
